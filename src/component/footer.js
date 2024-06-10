@@ -8,7 +8,7 @@ export default function Footer() {
         <button className='bg-blue-500 p-2 rounded text-xl text-slate-200' >Get Direction</button>
       </a>
       <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2020 JSRI Fabrication 
-      <p className='text-xl'><b>Phone:</b>+91 95182-79999, 01274-295129</p>
+      <p className='text-xl'><b>Phone:</b>+91 9953666009</p>
       </p>
       <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
       <p className='text-xl'><b>Email:</b> jsrindustrialfabrication@gmail.com</p>
