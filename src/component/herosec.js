@@ -12,7 +12,7 @@ const popover = (
         <b>Email:</b> <br /> jsrindustrialfabrication@gmail.com
       </p>
       <p style={{ fontSize: '14px', fontWeight: 'bold' }}>
-        <b>Phone:</b><br />+91 95182-79999, 01274-295129
+        <b>Phone:</b><br />+91 99536 66009
       </p>
     </Popover.Body>
   </Popover>
